@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('mblack-website App', () => {
+describe('gh-pages-demo App', () => {
   let page: AppPage;
 
   beforeEach(() => {
